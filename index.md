@@ -172,7 +172,7 @@ https://www.ethermine.org/
 ```markdown
 ethermine.hk.mio.cool:5555
 ```
-- ethermine池-SSL-HK中转-抽水0.35%
+- 2miners池-SSL-HK中转-抽水0.35%
 ```markdown
 2miners.hk.mio.cool:12020
 ```
