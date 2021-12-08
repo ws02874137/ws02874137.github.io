@@ -176,4 +176,8 @@ ethermine.hk.mio.cool:5555
 ```markdown
 2miners.hk.mio.cool:12020
 ```
+- 鱼池-SSL-HK中转-抽水0.35%
+```markdown
+f2pool.hk.mio.cool:12020
+```
 - 必须开启SSL 你懂的
