@@ -8,16 +8,8 @@
 
 打开ucloud网站：[https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang](https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1x00211FEE83A6E#xianggang)
 
-You can use the [editor on GitHub](https://github.com/ws02874137/ws02874137.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```下面仅以Ucloud的vps为例子，其他vps请自行参考相关网站设置
+通过以下链接可以注册：
 
 # Header 1
 ## Header 2
