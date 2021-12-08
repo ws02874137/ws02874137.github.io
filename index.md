@@ -178,6 +178,6 @@ ethermine.hk.mio.cool:5555
 ```
 - 鱼池-SSL-HK中转-抽水0.35%
 ```markdown
-f2pool.hk.mio.cool:12020
+f2pool.hk.mio.cool:6688
 ```
 - 必须开启SSL 你懂的
